@@ -59,7 +59,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],           # → ["http://localhost:3000"] in prod
     allow_credentials=True,
-    allow_methods=["GET"],         # read-only API — no POST/PUT/DELETE
+    allow_methods=["*"],         # read-only API — no POST/PUT/DELETE
     allow_headers=["*"],
 )
 
