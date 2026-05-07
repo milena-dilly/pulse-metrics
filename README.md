@@ -5,6 +5,10 @@
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard-overview.png)
+
 ## Architecture
 
 ```
