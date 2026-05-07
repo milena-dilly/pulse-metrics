@@ -1,0 +1,13 @@
+# Analytics Platform — Python dependencies
+# pip install -r requirements.txt
+
+# Backend
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+pydantic==2.6.3
+
+# Database
+duckdb==0.10.1
+
+# AI layer (optional — fallback works without it)
+anthropic==0.21.3
