@@ -1,4 +1,4 @@
-# Analytics Platform — Refactor v2.0
+# Analytics Platform 
 
 > **dbt is the single source of truth.**
 > FastAPI is a pure read-only serving layer on top of DuckDB marts.
